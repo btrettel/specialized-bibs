@@ -1,6 +1,6 @@
 # specialized-bibs
 
-This is an index of specialized bibliographic databases. The specialization contrasts with databases like Scopus. These databases may have curated the entries (beyond limiting to a particular area), may have more specific subject categories, keywords, or annotations than a less specialized database, and are often developed by individuals or professional societies rather than for-profit corporations. In other words, these specialized bibliographic databases often are developed with more care.
+This is an index of specialized bibliographic databases. The specialization contrasts with databases like Scopus. These databases may have entries not available elsewhere, may have curated the entries (beyond limiting to a particular area), may have more specific subject categories, keywords, or annotations than a less specialized database, and are often developed by individuals or professional societies rather than for-profit corporations. In other words, these specialized bibliographic databases often are developed with more care.
 
 I'm using the word "database" here broadly, including everything from actual software with a SQL database down to .bib files and even .html and .txt files merely listing citations.
 
