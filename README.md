@@ -114,6 +114,7 @@ Contributions are welcome. Unfortunately these databases are often obscure or ev
 - [Contextual Dynamics Lab bibliography](https://github.com/ContextLab/CDL-bibliography)
 - [Disinformation Annotated Bibliography](https://citizenlab.ca/wp-content/uploads/2019/05/Disinformation-Bibliography.pdf)
 - [EarthRef.org Reference Database (ERR)](https://earthref.org/ERR/) (also see: [1](https://erda.sdsc.edu/ERR/))
+- [EThOS](https://bl.iro.bl.uk/collections/e492dc4b-82d9-4f8c-bb0a-2cdd8a62105d?locale=en) (also see [1](https://en.wikipedia.org/wiki/E-Theses_Online_Service))
 - [General Morphology Reference List](https://www.swemorph.com/ref-by-subject.html)
 - [Gnomon Bibliographische Datenbank](https://www.gbd.digital/gbd/?View=gnomon)
 - [Handel Reference Database](https://web.stanford.edu/~ichriss/HRD/)
@@ -151,7 +152,6 @@ If anyone knows where a copy of these databases is, file an issue or pull reques
 - [Alsos Digital Library for Nuclear Issues](https://en.wikipedia.org/wiki/Alsos_Digital_Library_for_Nuclear_Issues)
 - [AMR Abstracts Database](https://web.archive.org/web/20050728082622/http://www.asme.org/pubs/amr/database.html) ([Library of Congress CD-ROM copy](https://lccn.loc.gov/sn96000353), which is incomplete and on-site only)
 - [Difficult to Find Engineering Papers](https://web.archive.org/web/20150317100912/http://www.lindahall.org/reference/searchpapers/)
-- [EThOS](https://en.wikipedia.org/wiki/E-Theses_Online_Service)
 - ESA/IRS (European Space Agency/Information Retrieval System)
     - Maybe this isn't actually lost as [the von Karman Institute says they have access](https://www.vki.ac.be/index.php/research-consulting-mainmenu-107/facilities-other-menu-148/technical-support-other-menu-177/105-library).
 - IBM publications ([for example, see publications linked here](https://www.edm2.com/index.php/Common_User_Access))
