@@ -173,5 +173,7 @@ If anyone knows where a copy of these databases is, file an issue or pull reques
 - IBM publications ([for example, see publications linked here](https://www.edm2.com/index.php/Common_User_Access))
 - [Jet Impingement Database](https://web.archive.org/web/20080103021428/http://www.eevl.ac.uk/jet/)
 - [Liquid Crystal Database](https://web.archive.org/web/20080102070720/http://www.eevl.ac.uk/lcd/)
+- [OSH UPDATE](https://www.sheilapantry.com/index.html) (also see: [1](https://work.cochrane.org/other-osh-databases))
 - permalink.lanl.gov
+- [Waternet](https://web.archive.org/web/20050310031735/http://www.awwa.org/bookstore/product.cfm?id=WATCD)
 - [World Translations Index](https://web.archive.org/web/20080827223931/http://library.dialog.com/bluesheets/html/bl0295.html/)
