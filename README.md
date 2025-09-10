@@ -6,6 +6,8 @@ I'm using the word "database" here broadly, including everything from actual sof
 
 Contributions are welcome. Unfortunately these databases are often obscure or even no longer online, so I'm hoping that by creating an index I'll make these databases easier to find. This index is heavily biased towards my own interests and things I found by randomly browsing the internet and I would like to change that.
 
+Note that inclusion of a bibliography here does not imply endorsement of the views of the bibliographer or any of the cited documents.
+
 ## Collections of bibliographies
 
 - [Andrew Cullison's Philosophy BibTeX files](https://www.andrewcullison.com/resources/)
@@ -30,6 +32,7 @@ Contributions are welcome. Unfortunately these databases are often obscure or ev
 - [Bibliography for Publications about Deep Learning using GPU](https://github.com/memkite/DeepLearningBibliography)
 - [Bibliography on Check digit systems](http://page.mi.fu-berlin.de/rhschulz/Literatur/checkdigits_literatur.pdf)
 - [Bibliography on Gradual Typing](https://github.com/samth/gradual-typing-bib)
+- [Bibliography of Fitts’ Law Research](https://www.yorku.ca/mack/RN-Fitts_bib.htm)
 - [Bibliography of Scheme research](https://github.com/schemedoc/bibliography)
 - [Bibliography on vertex/facet enumeration](https://web.archive.org/web/19980216013201/http://www-cgrl.cs.mcgill.ca:80/~bremner/bib.html)
 - [BibTeX references from "Mesh generation and optimal triangulation"](https://ics.uci.edu/~eppstein/gina/meshgen.html)
@@ -41,6 +44,7 @@ Contributions are welcome. Unfortunately these databases are often obscure or ev
 - [David Jones's Hypertext Bibliography Project](https://web.archive.org/web/20010208094204/http://theory.lcs.mit.edu/~dmjones/hbp/)
 - [Debugger bibliography](https://github.com/aarzilli/debugger-bibliography) (also see: [1](https://aarzilli.github.io/debugger-bibliography/))
 - [Domain-Specific Languages: An Annotated Bibliography](https://web.archive.org/web/20030210045536/https://www.cwi.nl/~arie/papers/dslbib/) (also see: [1](https://www.program-transformation.org/Transform/DSLAnnotatedBibliography.html), [2](https://www.program-transformation.org/Transform/DSLBibliographyAdditions.html), [3](https://web.archive.org/web/20020811054637/http://compose.labri.fr/documentation/dsl/))
+- [endatabas bibliography](https://www.endatabas.com/bibliography.html)
 - [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
 - [Fuzzy scheduling bibliography](https://www.dbai.tuwien.ac.at/ftp/papers/slany/fuzzy-scheduling.bib) (also see: [1](https://web.archive.org/web/20230704112716/http://liinwww.ira.uka.de/bibliography/Ai/fuzzy-scheduling.html), [2](https://www.dbai.tuwien.ac.at/ftp/papers/slany/Index))
 - [Garbage Collection Bibliography](https://www.cs.kent.ac.uk/people/staff/rej/gcbib/)
@@ -59,11 +63,14 @@ Contributions are welcome. Unfortunately these databases are often obscure or ev
 - [Multipath TCP : Annotated bibliography](https://github.com/obonaventure/mptcp-bib)
 - [Mutation Testing Repository](https://mutationtesting.uni.lu/index.php)
 - [Networked Computer Science Technical Reference Library](https://web.archive.org/web/20050803081206/http://www.ncstrl.org/)
+- [Object-Oriented Bibliography and Articles](https://web.archive.org/web/20040706015737/http://www.well.com/user/ritchie/oo.html#articles)
+- [Object-Oriented Numerics Bibliography](https://web.archive.org/web/19990117055914/http://monet.uwaterloo.ca/oon/oon.bib) (also see: [1](https://web.archive.org/web/19990421181618/http://monet.uwaterloo.ca/oon/))
 - [Pacific Laboratory for Artificial Intelligence bibliography](https://github.com/plai-group/bibliography)
 - [Parallel computational geometry bibliography](https://web.archive.org/web/20020410202251/http://ligwww.epfl.ch:80/~capin/en/docs/compgeom.txt)
 - [Parallel Debugger Bibliography](https://web.archive.org/web/19990202122242/http://www.cs.orst.edu/%7Epancake/papers/biblio.html) (also see: [1](https://ftp.fi.muni.cz/pub/bibliography/Parallel/debug_3.1.html), [2](https://wotug.org/parallel/parlib/bibliographies/debug))
 - [Real-Time Rendering, 4th Edition Bibliography](https://www.realtimerendering.com/refs.html)
 - [Ruby Bib](https://rubybib.org/)
+- [Self Bibliography](https://bibliography.selflanguage.org/)
 - [Spack bibliography](https://github.com/spack/spack-bibliography)
 - [Survey of Flaky Tests bibliography](https://github.com/flake-it/flaky-tests-bibliography)
 - [Testing References](https://www.testingreferences.com/index.php)
@@ -72,6 +79,7 @@ Contributions are welcome. Unfortunately these databases are often obscure or ev
 
 ### Math
 
+- [Abstracts in Imprecise Probabilities](https://web.archive.org/web/20050405024132/http://ippserv.rug.ac.be/abstracts/abstracts.html)
 - [Bibliographic Notes on Voronoi Diagrams](https://math.nist.gov/~JBernal/or.pdf)
 - [Bibliography on Automatic Differentiation](https://autodiff.org/?module=Publications)
 - [Bibliography of Bernoulli Numbers](https://www.mscs.dal.ca/~dilcher/bernoulli.html)
@@ -86,6 +94,7 @@ Contributions are welcome. Unfortunately these databases are often obscure or ev
 - [GNU Triangulated Surface Library Bibliography](https://gts.sourceforge.net/biblio.html)
 - [Gröbner Bases Bibliography](https://www3.risc.jku.at/research/theorema/Groebner-Bases-Bibliography/index.php)
 - [Harmonic Maps Bibliography](https://people.bath.ac.uk/feb/harmonic.html) (also see: [1](https://web.archive.org/web/20030412122301/http://www.bath.ac.uk/~masfeb/harmonic.html))
+- [Imprecise Probabilities: A Bibliography](https://web.archive.org/web/20050405024248/http://ippserv.rug.ac.be/biblio/biblio.html)
 - [Infinity References](https://web.archive.org/web/19991010145029/http://www.ii.com/math/infinity/references/)
 - [Interval Bibliography](https://ftp.fi.muni.cz/pub/bibliography/Math/intarith.html)
 - [Karlsruhe Bibliography of Papers on Interval and Related Methods](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=f48920c5fc248e66ea01eaf9b341f8d4e07ef633)
@@ -95,20 +104,24 @@ Contributions are welcome. Unfortunately these databases are often obscure or ev
 - [Mimetic discretizations bibliography](https://web.archive.org/web/20191218003436/http://people.math.sfu.ca/~nrobidou/public_html/mimetic/mimetic.html)
 - [Multilevel Monte Carlo research](https://people.maths.ox.ac.uk/gilesm/mlmc_community.html)
 - [Prime Pages Reference Database](https://t5k.org/references/refs.cgi)
+- [Spline bibliography](https://pages.cs.wisc.edu/~deboor/bib/bib.html) ([mirror](https://www.math.auckland.ac.nz/~waldron/Bib/bib.html))
 - [SYNODE References on Geometric Integration](https://web.archive.org/web/20060828082955/http://www.math.ntnu.no/num/synode/bib/geom_int/geom_int.html)
 - [SYNODE References on Symplectic Integration](https://web.archive.org/web/20060105031858/http://www.math.ntnu.no:80/num/synode/bib/hamilt/hamilt.html)
 
 ### Physics and engineering
 
 - [Aerospace Controls Laboratory bibliography](https://github.com/mit-acl/bibliography)
+- [Annotated Bibliographies for Astrostatistics](https://web.archive.org/web/20190329214506/https://astrostatistics.psu.edu/biblio.html)
 - [Bibliography of CFD Verification and Validation](https://www.grc.nasa.gov/www/wind/valid/tutorial/bibliog.html)
 - [Bibliography Of Turbulent Flows 1980-2002 by P. Bradshaw](https://web.archive.org/web/20150221192214/navier.stanford.edu/bradshaw/pbref/intro.html)
+- [BRL-CAD Bibliography](https://brlcad.org/BRL-CAD_Bibliography.pdf)
 - [Contrails](https://contrails.library.iit.edu/page/front)
 - [Detonation Database -- References](https://shepherd.caltech.edu/detn_db/html/references.html)
 - [Discrete Physics](https://web.archive.org/web/20191227104530/http://www.discretephysics.org/en/)
 - [EqWorld Educational Physical and Mathematical Library](https://eqworld.ipmnet.ru/ru/library.htm)
 - [FDTD database](https://web.archive.org/web/20030402053044/http://www.fdtd.org/Bibtex-db/db-data.pl) (also see: [1](https://eecs.wsu.edu/~schneidj/fdtd-bib.html), [2](https://eecs.wsu.edu/~schneidj/FDTD/survey-html/survey-html.html), [3](https://eecs.wsu.edu/~schneidj/FDTD/survey-html/node33.html), [4](https://web.archive.org/web/19981203164155/http://www.eecs.wsu.edu/%7Eschneidj/fdtd-bib.html), [5](https://github.com/john-b-schneider/uFDTD/tree/master))
 - [FireDOC](https://firedoc.nist.gov/)
+- [IIHS research bibliography](https://www.iihs.org/research-areas/bibliography)
 - [ILASS-Americas Conference Papers](https://ilass.org/RDDS/ResearchDataSearch.php)
 - [Lester Gilbert's list of books related to RC sailing](https://www.onemetre.net/OtherTopics/Books/Books.htm)
 - [Local Preconditioning](https://web.archive.org/web/19980428164219/http://ab00.larc.nasa.gov/~kleb/precond/people+papers.html)
@@ -143,6 +156,8 @@ Contributions are welcome. Unfortunately these databases are often obscure or ev
 - [Lib-Value bibliographic database](https://libvalue.cci.utk.edu/bibliographic-database/)
 - [Multi-Echelon Inventory Optimization](https://www.modus.uni-bayreuth.de/en/projects/academia/meio/index.html)
 - [OpenGrey](https://ssh.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xtf-47w5) (borderline in terms of size, but is little known)
+- [Omnilux Clinical Bibliography](https://omniluxled.com/pages/clinical-bibliography) (dermatology)
+- [Peter P. Wakker's annotated bibliography on decision and uncertainty](https://personal.eur.nl/wakker/refs/webrfrncs.docx) (also see [1](https://personal.eur.nl/wakker/), [2](https://personal.eur.nl/wakker/refs/webrfrncs.pdf), [3](https://personal.eur.nl/wakker/refs/latexbib.htm), [4](https://sjdm.org/links.html))
 - [philbib](https://kjhealy.github.io/bib/)
 - [PhilGeek](https://github.com/PhilGeek/bib)
 - [Poly-PEDAL Library](https://web.archive.org/web/20120418043942/http://polypedal.berkeley.edu/twiki/bin/view/PolyPEDAL/TheLibrary) (animal locomotion)
@@ -150,6 +165,7 @@ Contributions are welcome. Unfortunately these databases are often obscure or ev
 - [Privacy bibliography](https://github.com/labordynamicsinstitute/privacy-bibliography?tab=readme-ov-file)
 - [Publications about UDC](https://udcc.org/index.php/site/page?view=bib)
 - [Reproducible Research bibliography](https://reproducibleresearch.net/bibliography/)
+- [Remote-Viewing Articles, Publications, and Bibliographies](https://www.irva.org/library/bibliography)
 - [Retraction Watch Database](https://retractiondatabase.org/RetractionSearch.aspx?) (also see: [1](https://gitlab.com/crossref/retraction-watch-data))
 - [SafetyLit](https://www.safetylit.org/) (also see: [1](https://en.wikipedia.org/wiki/SafetyLit))
 - [Scientific Ocean Drilling Bibliographic Database](https://iodp.tamu.edu/publications/bibliographic_information/database.html)
@@ -157,6 +173,7 @@ Contributions are welcome. Unfortunately these databases are often obscure or ev
 - [System Dynamics Society bibliography](https://systemdynamics.org/bibliography/)
 - [The Serendipity Society's Resources List](https://theserendipitysociety.wordpress.com/resources/)
 - [TRAIL](https://www.technicalreports.org/trail/search/)
+- [Wolfram's Library](https://www.wolframscience.com/reference/books/)
 - [Writing-to-Learn in STEM Bibliographic Database](https://wac.colostate.edu/repository/teaching/stem/db/)
 
 ## Lost or now unavailable
