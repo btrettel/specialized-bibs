@@ -17,6 +17,7 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
     - Now offline, but mirrors exist:
         - [2023](https://web.archive.org/web/20230330204052/http://liinwww.ira.uka.de/bibliography/index.html)
         - [2008](https://ftp.fi.muni.cz/pub/bibliography/index.html)
+- [Government Attic](https://www.governmentattic.org/) has many bibliographies obtained via FOIA requests to the US federal government. Naming on the site varies, but you can search for "technical report" to find some of them.
 - [Internet Parallel Computing Archive Bibliographies](https://wotug.org/parallel/parlib/bibliographies/)
 - [Netlib bib directory](https://www.netlib.org/bib/)
 - [TUG bibliography archive](https://ftp.math.utah.edu/pub/tex/bib/index-table.html)
@@ -74,20 +75,24 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [Spack bibliography](https://github.com/spack/spack-bibliography)
 - [Survey of Flaky Tests bibliography](https://github.com/flake-it/flaky-tests-bibliography)
 - [Testing References](https://www.testingreferences.com/index.php)
+- [Trail of Bits publications](https://github.com/trailofbits/publications)
 - [TSPBIB](https://web.archive.org/web/20090325014300/http://www.densis.fee.unicamp.br/~moscato/TSPBIB_home.html) (Traveling Salesman Problem)
 - [Visual Bibliography of Tree Visualization](https://treevis.net/) (also see: [1](https://news.ycombinator.com/item?id=33561377))
 
 ### Math
 
 - [Abstracts in Imprecise Probabilities](https://web.archive.org/web/20050405024132/http://ippserv.rug.ac.be/abstracts/abstracts.html)
+- [AI for math bibliography](https://seewoo5.github.io/awesome-ai-for-math/)
 - [Bibliographic Notes on Voronoi Diagrams](https://math.nist.gov/~JBernal/or.pdf)
 - [Bibliography on Automatic Differentiation](https://autodiff.org/?module=Publications)
 - [Bibliography of Bernoulli Numbers](https://www.mscs.dal.ca/~dilcher/bernoulli.html)
 - [Bibliography on Hardware Support for Interval Computations](https://web.archive.org/web/20050405171712/http://www.eecs.lehigh.edu/~caar/hw.bib)
+- [Bibliography on packing two discs](https://math.arizona.edu/~tgk/pack_two_discs/bib.html)
 - [Bibliography of Wavelet and Time Series Titles](https://web.archive.org/web/20030425123936/http://www.stat.washington.edu/brandon/biblio.shtml)
 - [BiBTeX database and LaTeX macros of Pierre L'Ecuyer](https://www.iro.umontreal.ca/~lecuyer/tex-bibtex.html)
 - [Cellular Automata bibliography](https://web.archive.org/web/20030501034600/http://www.ima.umn.edu/bibtex/ca.bib)
 - [David Eppstein Bibliography Files](https://ics.uci.edu/~eppstein/bibs/)
+- [DispersiveWiki bibliography](https://dispersivewiki.org/DispersiveWiki/index.php?title=Category:Bibliography)
 - [Electronic Bibliography in Ergodic theory and Dynamical Systems](https://web.archive.org/web/20000301065334/http://www.mth.uea.ac.uk:80/~h720/ebeds/ebeds.html)
 - [Freiburg Interval Library](https://web.archive.org/web/19980419183528/http://solon.cma.univie.ac.at/~neum/intlib)
 - [Geometry Literature Database](https://jeffe.cs.illinois.edu/compgeom/biblios.html#geombib) (also see: [1](https://www.cs.usask.ca/ftp/pub/geometry/), [2](https://sarielhp.org/research/CG/compgeom/msg00902.html))
