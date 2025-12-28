@@ -1,8 +1,8 @@
 # specialized-bibs
 
-This is an index of specialized bibliographic databases. The specialization contrasts with databases like Scopus. These databases may have entries not available elsewhere, may have curated the entries (beyond limiting to a particular area), may have more specific subject categories, keywords, or annotations than a less specialized database, and are often developed by individuals or professional societies rather than for-profit corporations. In other words, these specialized bibliographic databases often are developed with more care.
+This is an index of specialized bibliographic databases. The specialization contrasts with databases like Scopus. These databases may have entries not available elsewhere, may have curated the entries (beyond limiting to a particular area), may have more specific subject categories, keywords, or annotations than a less specialized database, are often developed by individuals or professional societies rather than for-profit corporations, and are often maintained for years after starting (unlike many published bibliographies). In other words, these specialized bibliographic databases often are developed with more care.
 
-I'm using the word "database" here broadly, including everything from actual software with a SQL database down to .bib files and even .html and .txt files merely listing citations.
+I'm using the word "database" here broadly, including everything from actual software with a SQL database down to .bib files and even .html and .txt files merely listing citations. Note that I'm not including bibliographies that existed solely in printed documents even if they were digitized later.
 
 Contributions are welcome. Unfortunately these databases are often obscure or even no longer online, so I'm hoping that by creating an index I'll make these databases easier to find. This index is heavily biased towards my own interests and things I found by randomly browsing the internet and I would like to change that.
 
@@ -80,6 +80,7 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [Survey of Flaky Tests bibliography](https://github.com/flake-it/flaky-tests-bibliography)
 - [Testing References](https://www.testingreferences.com/index.php)
 - [Trail of Bits publications](https://github.com/trailofbits/publications)
+- [Transformative Artificial Intelligence Safety Bibliographic Database](https://www.lesswrong.com/posts/4DegbDJJiMX2b3EKm/tai-safety-bibliographic-database)
 - [TSPBIB](https://web.archive.org/web/20090325014300/http://www.densis.fee.unicamp.br/~moscato/TSPBIB_home.html) (Traveling Salesman Problem)
 - [Visual Bibliography of Tree Visualization](https://treevis.net/) (also see: [1](https://news.ycombinator.com/item?id=33561377))
 
@@ -175,6 +176,7 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [Internet Speculative Fiction Database](https://isfdb.org/)
 - [Justification Logic Bibliography](https://sites.google.com/site/kuznets/justificationlogicbibliography)
 - [Knowledge organization literature](https://www.isko.org/lit.html)
+- [Labordoc](https://labordoc.ilo.org/)
 - [Language Evolution and Computation Bibliography](https://langev.com/) (also see: [1](https://web.archive.org/web/20110811025134/http://www.isrl.illinois.edu/amag/langev/))
 - [Lib-Value bibliographic database](https://libvalue.cci.utk.edu/bibliographic-database/)
 - [Multi-Echelon Inventory Optimization](https://www.modus.uni-bayreuth.de/en/projects/academia/meio/index.html)
@@ -195,6 +197,7 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [socbibs](https://github.com/kjhealy/socbibs)
 - [Students' and Teachers' Conceptions and Science Education Bibliography](https://archiv.leibniz-ipn.de/stcse/)
 - [System Dynamics Society bibliography](https://systemdynamics.org/bibliography/)
+- [Tacit knowledge bibliography](https://www.stripe.press/tacit)
 - [The Serendipity Society's Resources List](https://theserendipitysociety.wordpress.com/resources/)
 - [TRAIL](https://www.technicalreports.org/trail/search/)
 - [Wolfram's Library](https://www.wolframscience.com/reference/books/)
