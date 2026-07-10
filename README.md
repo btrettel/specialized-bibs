@@ -6,7 +6,9 @@ I'm using the word "database" here broadly, including everything from actual sof
 
 Contributions are welcome. Unfortunately these databases are often obscure or even no longer online, so I'm hoping that by creating an index I'll make these databases easier to find. This index is heavily biased towards my own interests and things I found by randomly browsing the internet and I would like to change that.
 
-Note that inclusion of a bibliography here does not imply endorsement of the views of the bibliographer or any of the cited documents.
+Note that inclusion of a bibliography here does not imply endorsement of the subject, endorsement of the views of the bibliographer, or endorsement of any of the cited documents.
+
+TODO: Add years to each. Hacker News style "(YYYY)" works.
 
 ## Collections of bibliographies
 
@@ -31,6 +33,7 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [Annotated bibliography on approximate computing](http://approximate.computer/approxbib/) (also see: [1](https://github.com/sampsyo/approxbib))
 - [Annotated Bibliography on Graph Drawing Algorithms](https://cs.brown.edu/people/rtamassi/gd-biblio.html)
 - [Annotated Computer Vision Bibliography](https://www.visionbib.com/bibliography/contents.html)
+- [Bernard Pichon's bibliography](https://web.archive.org/web/20060216142638/http://www.obs-nice.fr/pichon/biblio.html)
 - [Bibliography for Publications about Deep Learning using GPU](https://github.com/memkite/DeepLearningBibliography)
 - [Bibliography on Check digit systems](http://page.mi.fu-berlin.de/rhschulz/Literatur/checkdigits_literatur.pdf)
 - [Bibliography on Gradual Typing](https://github.com/samth/gradual-typing-bib)
@@ -38,6 +41,8 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [Bibliography of Scheme research](https://github.com/schemedoc/bibliography)
 - [Bibliography on vertex/facet enumeration](https://web.archive.org/web/19980216013201/http://www-cgrl.cs.mcgill.ca:80/~bremner/bib.html)
 - [BibTeX references from "Mesh generation and optimal triangulation"](https://ics.uci.edu/~eppstein/gina/meshgen.html)
+- [Boris Jeremić's Computer Science bibliography](http://sokocalo.engr.ucdavis.edu/~jeremic/Jeremic_et_al_bibliography_computers.pdf)
+- [CADNA bibliography](https://cadna.lip6.fr/Bibliography.php) (floating point error)
 - [Collection of collision detection papers](https://graphics.stanford.edu/~lizhang/collision/colbib.html) ([bib file](https://graphics.stanford.edu/~lizhang/collision/colbib.bib))
 - [Computational effects bibliography](https://github.com/yallop/effects-bibliography)
 - [Computational geometry and volumetric visualization bibliography](https://web.archive.org/web/20080221070535/http://www.disi.unige.it/person/MagilloP/SPACENET/genova.bib)
@@ -51,6 +56,8 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [Ethical Considerations for Civilian AI Developers Using Open-Source Military Data ](https://huggingface.co/datasets/agentlans/ai-military-ethics-bibliography)
 - [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
 - [Exascale Computing Project Library](https://www.exascaleproject.org/library/)
+- [Fortran Books](https://web.archive.org/web/20210425183634/http://www.lahey.com/books.htm)
+- [Fortran 90, Fortran 95, F Bibliography](https://web.archive.org/web/20000918231247/http://www.fortran.com/fortran/kerrigan.pdf)
 - [Fuzzy scheduling bibliography](https://www.dbai.tuwien.ac.at/ftp/papers/slany/fuzzy-scheduling.bib) (also see: [1](https://web.archive.org/web/20230704112716/http://liinwww.ira.uka.de/bibliography/Ai/fuzzy-scheduling.html), [2](https://www.dbai.tuwien.ac.at/ftp/papers/slany/Index))
 - [Garbage Collection Bibliography](https://www.cs.kent.ac.uk/people/staff/rej/gcbib/)
 - [Generative Programming](https://web.archive.org/web/20030202083705/http://home.t-online.de/home/Ulrich.Eisenecker/gpref.htm)
@@ -62,6 +69,7 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [Institute for Communications Technology, Technische Universität Braunschweig bibliography](https://github.com/ifnspaml/bibliography)
 - [Knowledge Representation and Reasoning Group bibliography](https://github.com/krr-up/bibliography)
 - [LEABIB](https://web.archive.org/web/20000410072206/http://wwwmayr.informatik.tu-muenchen.de/leabib/bib.html)
+- [Literature on Interprocedural Analysis of Programs](https://parallel.ru/info/interproc.html)
 - [Map-Labeling Bibliography](https://web.archive.org/web/20010429220753/http://www.math-inf.uni-greifswald.de/map-labeling/bibliography/)
 - [Max-Planck-Institut für Informatik Index of proceedings](https://web.archive.org/web/20041210150852/http://www.mpi-sb.mpg.de/services/library/proceedings/index.html)
 - [Mesh generation bibliography](http://www.cs.cmu.edu/~ph/mesh.html)
@@ -71,6 +79,7 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
     - [The Collection of Computer Science Bibliographies](https://web.archive.org/web/20230403034319/http://liinwww.ira.uka.de/bibliography/Techreports/index.html) copies appear to be more complete.
 - [Object-Oriented Bibliography and Articles](https://web.archive.org/web/20040706015737/http://www.well.com/user/ritchie/oo.html#articles)
 - [Object-Oriented Numerics Bibliography](https://web.archive.org/web/19990117055914/http://monet.uwaterloo.ca/oon/oon.bib) (also see: [1](https://web.archive.org/web/19990421181618/http://monet.uwaterloo.ca/oon/))
+- [ORA Canada Bibliography of Automated Deduction](https://web.archive.org/web/20060314021926/http://www.ora.on.ca/biblio/biblio-prover-welcome.html)
 - [Pacific Laboratory for Artificial Intelligence bibliography](https://github.com/plai-group/bibliography)
 - [Parallel computational geometry bibliography](https://web.archive.org/web/20020410202251/http://ligwww.epfl.ch:80/~capin/en/docs/compgeom.txt)
 - [Parallel Debugger Bibliography](https://web.archive.org/web/19990202122242/http://www.cs.orst.edu/%7Epancake/papers/biblio.html) (also see: [1](https://ftp.fi.muni.cz/pub/bibliography/Parallel/debug_3.1.html), [2](https://wotug.org/parallel/parlib/bibliographies/debug))
@@ -84,12 +93,15 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [Transformative Artificial Intelligence Safety Bibliographic Database](https://www.lesswrong.com/posts/4DegbDJJiMX2b3EKm/tai-safety-bibliographic-database)
 - [TSPBIB](https://web.archive.org/web/20090325014300/http://www.densis.fee.unicamp.br/~moscato/TSPBIB_home.html) (Traveling Salesman Problem)
 - [Visual Bibliography of Tree Visualization](https://treevis.net/) (also see: [1](https://news.ycombinator.com/item?id=33561377))
+- [Željko Obrenović's Curated Reads (2025)](https://www.obren359.com/) (software engineering)
 
 ### Math
 
 - [Abstracts in Imprecise Probabilities](https://web.archive.org/web/20050405024132/http://ippserv.rug.ac.be/abstracts/abstracts.html)
 - [AI for math bibliography](https://seewoo5.github.io/awesome-ai-for-math/)
+- [Benford Online Bibliography](https://www.benfordonline.net/) (2019)
 - [Bibliographic Notes on Voronoi Diagrams](https://math.nist.gov/~JBernal/or.pdf)
+- [Bibliography for books on Bayesian analysis](https://kmh-lanl.hansonhub.com/bayes.bib.txt)
 - [Bibliography on Automatic Differentiation](https://autodiff.org/?module=Publications)
 - [Bibliography of Bernoulli Numbers](https://www.mscs.dal.ca/~dilcher/bernoulli.html)
 - [Bibliography on Hardware Support for Interval Computations](https://web.archive.org/web/20050405171712/http://www.eecs.lehigh.edu/~caar/hw.bib)
@@ -133,18 +145,24 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [Bibliography of CFD Verification and Validation](https://www.grc.nasa.gov/www/wind/valid/tutorial/bibliog.html)
 - [Bibliography Of Turbulent Flows 1980-2002 by P. Bradshaw](https://web.archive.org/web/20150221192214/navier.stanford.edu/bradshaw/pbref/intro.html)
 - [BIOBIB - A Database for biofuels](http://cdmaster2.vt.tuwien.ac.at/biobib/lit.html)
+- [Boris Jeremić's Computational Mechanics bibliography](http://sokocalo.engr.ucdavis.edu/~jeremic/Jeremic_et_al_bibliography_mechanics.pdf)
+- [Britz Cold Fusion Bibliography and Related Indexes](https://newenergytimes.com/v2/archives/Britz/britz-archives-cold-fusion-bibliography.shtml)
 - [BRL-CAD Bibliography](https://brlcad.org/BRL-CAD_Bibliography.pdf)
+- [Cold fusion bibliographies](https://ibiblio.org/pub/academic/physics/Cold-fusion/)
 - [Concentrating Solar Power Historical Documents](https://www.librarycat.org/lib/SandiaCSP)
 - [Contrails](https://contrails.library.iit.edu/page/front)
 - [Detonation Database -- References](https://shepherd.caltech.edu/detn_db/html/references.html)
 - [Discrete Physics](https://web.archive.org/web/20191227104530/http://www.discretephysics.org/en/)
+- [Early Soviet/Russian LENR Bibliographic Index](https://newenergytimes.com/v2/archives/USSR/USSR-LENR-Bibliographic-Index.shtml)
 - [EqWorld Educational Physical and Mathematical Library](https://eqworld.ipmnet.ru/ru/library.htm)
+- [Energy Technology Data Exchange (ETDE)](https://www.osti.gov/etdeweb/)
 - [FDTD database](https://web.archive.org/web/20030402053044/http://www.fdtd.org/Bibtex-db/db-data.pl) (also see: [1](https://eecs.wsu.edu/~schneidj/fdtd-bib.html), [2](https://eecs.wsu.edu/~schneidj/FDTD/survey-html/survey-html.html), [3](https://eecs.wsu.edu/~schneidj/FDTD/survey-html/node33.html), [4](https://web.archive.org/web/19981203164155/http://www.eecs.wsu.edu/%7Eschneidj/fdtd-bib.html), [5](https://github.com/john-b-schneider/uFDTD/tree/master))
 - [FireDOC](https://firedoc.nist.gov/)
 - [IIHS research bibliography](https://www.iihs.org/research-areas/bibliography)
 - [ILASS-Americas Conference Papers](https://ilass.org/RDDS/ResearchDataSearch.php)
 - [International Bibliography of Wildland Fire](https://www.wifri.org/search-library/) (also see: [1](https://www.wifri.org/product/international-bibliography-of-wildland-fire/))
 - [Lester Gilbert's list of books related to RC sailing](https://www.onemetre.net/OtherTopics/Books/Books.htm)
+- [LENR-CANR.org library](https://lenr-canr.org/wordpress/?page_id=1081)
 - [Local Preconditioning](https://web.archive.org/web/19980428164219/http://ab00.larc.nasa.gov/~kleb/precond/people+papers.html)
 - [History of Aerodynamics](https://web.archive.org/web/20190329071033/http://www.geocities.jp/nomonomoaerodynamics/)
 - [History of bicycle steer and dynamics equations](http://bicycle.tudelft.nl/schwab/Bicycle/BicycleHistoryReview/index.htm)
@@ -165,6 +183,7 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [Bibliography of Selected References to U.S. Marine Sand and Gravel Mineral Resources](https://pubs.usgs.gov/of/2003/of03-300/)
 - [Bibliographie sur la sérendipité](https://fr.wikipedia.org/wiki/Bibliographie_sur_la_s%C3%A9rendipit%C3%A9)
 - [Bin Packing Problem Library](https://site.unibo.it/operations-research/en/research/bpplib-a-bin-packing-problem-library) (also see: [1](https://link.springer.com/article/10.1007/s11590-017-1192-z))
+- [Boris Jeremić's (Engineering) Education/Learning bibliography](http://sokocalo.engr.ucdavis.edu/~jeremic/Jeremic_et_al_bibliography_education.pdf)
 - [Classical Works in Alchemy](https://web.archive.org/web/20070320231932/http://www.revistaazogue.com/biblio.htm)
 - [Collected Bibliography "History & Philosophy of Chemistry"](https://hyle.org/service/biblio.htm)
 - [Contextual Dynamics Lab bibliography](https://github.com/ContextLab/CDL-bibliography)
@@ -184,6 +203,7 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [International Abstracts in Operations Research](https://iaorifors.com/)
 - [International Conference on New Interfaces for Musical Expression (NIME)](https://github.com/NIME-conference/NIME-bibliography)
 - [Internet Speculative Fiction Database](https://isfdb.org/)
+- [Isis Bibliography of the History of Science](https://data.isiscb.org/p/isis/)
 - [Italian Bibliography of the History of Science (BISS)](https://www.imss.fi.it/biblio/ebiss.html)
 - [Justification Logic Bibliography](https://sites.google.com/site/kuznets/justificationlogicbibliography)
 - [Knowledge organization literature](https://www.isko.org/lit.html)
@@ -191,6 +211,7 @@ Note that inclusion of a bibliography here does not imply endorsement of the vie
 - [Language Evolution and Computation Bibliography](https://langev.com/) (also see: [1](https://web.archive.org/web/20110811025134/http://www.isrl.illinois.edu/amag/langev/))
 - [La Revolución Química](https://www.uv.es/bertomeu/revquim/)
 - [Lib-Value bibliographic database](https://libvalue.cci.utk.edu/bibliographic-database/)
+- [Model validation bibliography](https://github.com/sibeleker/Validation_Bibliometric)
 - [Multi-Echelon Inventory Optimization](https://www.modus.uni-bayreuth.de/en/projects/academia/meio/index.html)
 - [OpenGrey](https://ssh.datastations.nl/dataset.xhtml?persistentId=doi:10.17026/dans-xtf-47w5) (borderline in terms of size, but is little known)
 - [Omnilux Clinical Bibliography](https://omniluxled.com/pages/clinical-bibliography) (dermatology)
