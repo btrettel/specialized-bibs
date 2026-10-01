@@ -8,7 +8,11 @@ Contributions are welcome. Unfortunately these databases are often obscure or ev
 
 Note that inclusion of a bibliography here does not imply endorsement of the subject, endorsement of the views of the bibliographer, or endorsement of any of the cited documents.
 
-TODO: Add years to each. Hacker News style "(YYYY)" works.
+## To-do
+
+- [ ] Add years to each. Hacker News style "(YYYY)" works.
+- [ ] Go through bibdb.txt to find more that you already are aware of.
+- [ ] Ask LLMs to find more. Since this is searching for a concept, a LLM might be a good way to find more of these.
 
 ## Collections of bibliographies
 
@@ -33,7 +37,12 @@ TODO: Add years to each. Hacker News style "(YYYY)" works.
 - [Annotated bibliography on approximate computing](http://approximate.computer/approxbib/) (also see: [1](https://github.com/sampsyo/approxbib))
 - [Annotated Bibliography on Graph Drawing Algorithms](https://cs.brown.edu/people/rtamassi/gd-biblio.html)
 - [Annotated Computer Vision Bibliography](https://www.visionbib.com/bibliography/contents.html)
+- [Awesome Directed Fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing)
+- [Awesome Fuzzing Techniques](https://github.com/hacksyshacker/Awesome-Fuzzing-Techniques)
+- [Awesome Grammar Fuzzing](https://github.com/Microsvuln/Awesome-Grammar-Fuzzing)
+- [Awesome Mutation testing](https://github.com/theofidry/awesome-mutation-testing#publications)
 - [Bernard Pichon's bibliography](https://web.archive.org/web/20060216142638/http://www.obs-nice.fr/pichon/biblio.html)
+- [Bibliography: Encoding and generating videogame mechanics](https://www.kmjn.org/notes/generating_mechanics_bibliography.html)
 - [Bibliography for Publications about Deep Learning using GPU](https://github.com/memkite/DeepLearningBibliography)
 - [Bibliography on Check digit systems](http://page.mi.fu-berlin.de/rhschulz/Literatur/checkdigits_literatur.pdf)
 - [Bibliography on Gradual Typing](https://github.com/samth/gradual-typing-bib)
@@ -47,6 +56,7 @@ TODO: Add years to each. Hacker News style "(YYYY)" works.
 - [Computational effects bibliography](https://github.com/yallop/effects-bibliography)
 - [Computational geometry and volumetric visualization bibliography](https://web.archive.org/web/20080221070535/http://www.disi.unige.it/person/MagilloP/SPACENET/genova.bib)
 - [Computer Geometry Bibliography](https://github.com/bubbakittee/GeomBib)
+- [Computing in the Soviet Space Program Bibliography](https://web.mit.edu/slava/space/bibliography.htm) (links to more bibliographies not listed here)
 - [DANTE bibliography](https://github.com/dante-ev/dtk-bibliography)
 - [Data Engineering Whitepapers](https://www.ssp.sh/brain/data-engineering-whitepapers/)
 - [David Jones's Hypertext Bibliography Project](https://web.archive.org/web/20010208094204/http://theory.lcs.mit.edu/~dmjones/hbp/)
@@ -55,7 +65,9 @@ TODO: Add years to each. Hacker News style "(YYYY)" works.
 - [endatabas bibliography](https://www.endatabas.com/bibliography.html)
 - [Ethical Considerations for Civilian AI Developers Using Open-Source Military Data ](https://huggingface.co/datasets/agentlans/ai-military-ethics-bibliography)
 - [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
+- [Evolutionary Computation Bestiary](https://fcampelo.github.io/EC-Bestiary/) (2026)
 - [Exascale Computing Project Library](https://www.exascaleproject.org/library/)
+- [Famous Deep Learning Papers](https://papers.baulab.info/) (also see: [1](https://news.ycombinator.com/item?id=49448082))
 - [Fortran Books](https://web.archive.org/web/20210425183634/http://www.lahey.com/books.htm)
 - [Fortran 90, Fortran 95, F Bibliography](https://web.archive.org/web/20000918231247/http://www.fortran.com/fortran/kerrigan.pdf)
 - [Fuzzy scheduling bibliography](https://www.dbai.tuwien.ac.at/ftp/papers/slany/fuzzy-scheduling.bib) (also see: [1](https://web.archive.org/web/20230704112716/http://liinwww.ira.uka.de/bibliography/Ai/fuzzy-scheduling.html), [2](https://www.dbai.tuwien.ac.at/ftp/papers/slany/Index))
@@ -83,6 +95,7 @@ TODO: Add years to each. Hacker News style "(YYYY)" works.
 - [Pacific Laboratory for Artificial Intelligence bibliography](https://github.com/plai-group/bibliography)
 - [Parallel computational geometry bibliography](https://web.archive.org/web/20020410202251/http://ligwww.epfl.ch:80/~capin/en/docs/compgeom.txt)
 - [Parallel Debugger Bibliography](https://web.archive.org/web/19990202122242/http://www.cs.orst.edu/%7Epancake/papers/biblio.html) (also see: [1](https://ftp.fi.muni.cz/pub/bibliography/Parallel/debug_3.1.html), [2](https://wotug.org/parallel/parlib/bibliographies/debug))
+- [pldb](https://pldb.kirancodes.me/) (programming languages)
 - [Real-Time Rendering, 4th Edition Bibliography](https://www.realtimerendering.com/refs.html)
 - [Ruby Bib](https://rubybib.org/)
 - [Self Bibliography](https://bibliography.selflanguage.org/)
@@ -142,6 +155,7 @@ TODO: Add years to each. Hacker News style "(YYYY)" works.
 - [Aerospace Controls Laboratory bibliography](https://github.com/mit-acl/bibliography)
 - [Annotated Bibliographies for Astrostatistics](https://web.archive.org/web/20190329214506/https://astrostatistics.psu.edu/biblio.html)
 - [Association for the Advancement of Cost Engineering Virtual Library](https://library.aacei.org/vl5/litsearch.shtml)
+- [Ballistics Bibliography](https://www.frfrogspad.com/bibliog.htm)
 - [Bibliography of CFD Verification and Validation](https://www.grc.nasa.gov/www/wind/valid/tutorial/bibliog.html)
 - [Bibliography Of Turbulent Flows 1980-2002 by P. Bradshaw](https://web.archive.org/web/20150221192214/navier.stanford.edu/bradshaw/pbref/intro.html)
 - [BIOBIB - A Database for biofuels](http://cdmaster2.vt.tuwien.ac.at/biobib/lit.html)
@@ -227,6 +241,7 @@ TODO: Add years to each. Hacker News style "(YYYY)" works.
 - [Publications about UDC](https://udcc.org/index.php/site/page?view=bib)
 - [Reproducible Research bibliography](https://reproducibleresearch.net/bibliography/)
 - [Remote-Viewing Articles, Publications, and Bibliographies](https://www.irva.org/library/bibliography)
+- [Resources for Teachers, Students, and Researchers](https://blog.nuclearsecrecy.com/resources/) (Nuclear history)
 - [Retraction Watch Database](https://retractiondatabase.org/RetractionSearch.aspx?) (also see: [1](https://gitlab.com/crossref/retraction-watch-data))
 - [SafetyLit](https://www.safetylit.org/) (also see: [1](https://en.wikipedia.org/wiki/SafetyLit))
 - [Selected Bibliography on the History of Chemistry](https://web.archive.org/web/20070714172414/http://www.chemheritage.org/EducationalServices/chemach/stuff/bib.html)
@@ -236,6 +251,7 @@ TODO: Add years to each. Hacker News style "(YYYY)" works.
 - [System Dynamics Society bibliography](https://systemdynamics.org/bibliography/)
 - [Tacit knowledge bibliography](https://www.stripe.press/tacit)
 - [The Alchemy Reference Library](https://www.alchemywebsite.com/referlib.html)
+- [The Nozzle Forward Bibliography](https://nozzleforward.com/home/bibliography/)
 - [The Serendipity Society's Resources List](https://theserendipitysociety.wordpress.com/resources/)
 - [TRAIL](https://www.technicalreports.org/trail/search/)
 - [Wolfram's Library](https://www.wolframscience.com/reference/books/)
