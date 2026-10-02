@@ -1,4 +1,4 @@
-# specialized-bibs
+# Specialized bibliographic databases
 
 This is an index of specialized bibliographic databases. The specialization contrasts with databases like Scopus. These databases may have entries not available elsewhere, may have curated the entries (beyond limiting to a particular area), may have more specific subject categories, keywords, or annotations than a less specialized database, are often developed by individuals or professional societies rather than for-profit corporations, and are often maintained for years after starting (unlike many published bibliographies). In other words, these specialized bibliographic databases often are developed with more care.
 
@@ -106,6 +106,7 @@ Note that inclusion of a bibliography here does not imply endorsement of the sub
 - [Transformative Artificial Intelligence Safety Bibliographic Database](https://www.lesswrong.com/posts/4DegbDJJiMX2b3EKm/tai-safety-bibliographic-database)
 - [TSPBIB](https://web.archive.org/web/20090325014300/http://www.densis.fee.unicamp.br/~moscato/TSPBIB_home.html) (Traveling Salesman Problem)
 - [Visual Bibliography of Tree Visualization](https://treevis.net/) (also see: [1](https://news.ycombinator.com/item?id=33561377))
+- [WoTUG Reference Material](https://wotug.org/reference.shtml)
 - [Željko Obrenović's Curated Reads (2025)](https://www.obren359.com/) (software engineering)
 
 ### Math
